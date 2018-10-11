@@ -1,6 +1,6 @@
 {
   "name": "Compliant Google Login Button",
-  "about_url": "#",
+  "about_url": "https://meta.discourse.org/t/compliant-google-login-button/99276",
   "license_url": "https://github.com/tshenry/discourse-compliant-google-login-button/blob/master/LICENSE",
   "component": true,
   "assets": {
