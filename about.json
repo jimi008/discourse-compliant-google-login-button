@@ -1,0 +1,9 @@
+{
+  "name": "Compliant Google Login Button",
+  "about_url": "#",
+  "license_url": "https://github.com/tshenry/discourse-compliant-google-login-button/blob/master/LICENSE",
+  "component": true,
+  "assets": {
+  	"btn_google_light_normal": "assets/btn_google_light_normal_ios2x.png"
+  }
+}
